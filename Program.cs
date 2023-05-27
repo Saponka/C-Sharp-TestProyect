@@ -118,9 +118,9 @@ int course5Credit = 3;
 //grado equivalante a notas de curso 
 int gradeA = 4;
 int gradeB = 3;
-int gradeC = 2;
+/* int gradeC = 2;
 int gradeD = 1;
-int gradeF = 0;
+int gradeF = 0 */;
 //variables almacenarán valores de calificación numéricos para cada curso
 int course1Grade = gradeA;
 int course2Grade = gradeB;
